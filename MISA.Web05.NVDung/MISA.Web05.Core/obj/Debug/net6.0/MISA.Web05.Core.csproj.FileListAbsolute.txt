@@ -1,0 +1,28 @@
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.deps.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.AssemblyReference.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.AssemblyInfoInputs.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.AssemblyInfo.cs
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.CoreCompileInputs.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\refint\MISA.Web05.Core.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\ref\MISA.Web05.Core.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.Resources.Resource.resources
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.GenerateResource.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.deps.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\bin\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.AssemblyReference.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.Resources.Resource.resources
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.GenerateResource.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.AssemblyInfoInputs.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.AssemblyInfo.cs
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.csproj.CoreCompileInputs.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\refint\MISA.Web05.Core.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.Core\obj\Debug\net6.0\ref\MISA.Web05.Core.dll

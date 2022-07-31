@@ -1,0 +1,75 @@
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\appsettings.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.exe
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.deps.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.runtimeconfig.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Dapper.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Infrastructure.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Infrastructure.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.AssemblyReference.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.AssemblyInfoInputs.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.AssemblyInfo.cs
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.CoreCompileInputs.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\scopedcss\bundle\MISA.Web05.API.styles.css
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.CopyComplete
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\refint\MISA.Web05.API.dll
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.pdb
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.genruntimeconfig.cache
+D:\MISA\API\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\ref\MISA.Web05.API.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\appsettings.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.exe
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.deps.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.runtimeconfig.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.API.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Dapper.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Core.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Infrastructure.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Core.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\MISA.Web05.Infrastructure.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.AssemblyReference.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.AssemblyInfoInputs.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.AssemblyInfo.cs
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.CoreCompileInputs.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\scopedcss\bundle\MISA.Web05.API.styles.css
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.csproj.CopyComplete
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\refint\MISA.Web05.API.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.pdb
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\MISA.Web05.API.genruntimeconfig.cache
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\obj\Debug\net6.0\ref\MISA.Web05.API.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\EPPlus.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MISA\New folder\misa-fresher-web05-2022\mf1168-donotdeny\MISA.Web05.NVDung\MISA.Web05.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
